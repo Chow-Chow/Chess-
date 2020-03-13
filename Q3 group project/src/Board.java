@@ -118,6 +118,8 @@ public boolean legalMove(Piece  p, int x, int y){
 	}
 	
 	
+
+
 	
 	
 	

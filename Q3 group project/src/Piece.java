@@ -6,6 +6,7 @@ public class Piece extends Color {
 	boolean isSelected;
 	int x;
 	int y;
+
 	
 	public Piece(String name, boolean isWhite, boolean isSelected, int x, int y){
 		this.name = name;
