@@ -26,6 +26,7 @@ public class Piece extends Color {
 	
 	
 	
+	
 	public String getName(){
 		return name;
 	}
